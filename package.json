@@ -1,11 +1,19 @@
 {
-  "name": "test-package",
-  "version": "1.0.0",
-  "description": "Test publication and reuse of packages",
+  "name": "@ami-geva/test-package",
+  "version": "1.0.1",
+  "description": "Test publication and reuse of node.js package",
   "main": "index.js",
   "scripts": {
     "test": "jasmine"
   },
-  "author": "Ami Geva",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amig/test-package.git"
+  },
+  "author": "Ami geva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amig/test-package/issues"
+  },
+  "homepage": "https://github.com/amig/test-package#readme"
 }
