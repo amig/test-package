@@ -1,0 +1,11 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "Test publication and reuse of packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Ami Geva",
+  "license": "ISC"
+}
